@@ -26,7 +26,7 @@ Usage
 #### osslsigncode::default
 Download, compile and install osslsigncode.
 
-Just include `osslsigncode` in your node's `run_list`:
+Just include `osslsigncode` in your role's `run_list`:
 
 ```json
 {
